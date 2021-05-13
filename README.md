@@ -12,4 +12,4 @@ This project is licensed without any particular license
 
 ## Acknowledgments
 
-* Far all those YouTube tutors from all around the world
+* For all those YouTube tutors from all around the world
