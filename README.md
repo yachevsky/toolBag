@@ -1,6 +1,6 @@
 # Project Title
 
-Linux tolls, scripts, cheat sheets used by me in everyday work
+Linux tools, scripts, cheat sheets used by me in everyday work
 
 ## Authors
 
