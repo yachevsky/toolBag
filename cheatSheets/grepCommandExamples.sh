@@ -8,4 +8,4 @@ grep -win "term" ./*.txt #search within curr dir without going deeper
 grep -winr "term" ./ #search recursively in given directory
 grep -wirl "term" ./ #show the files containg results
 grep -winc "term" ./ #show files and number of matches
-grep  -P "\d{3}-\d{3}-\d{4}" #tell grep that sweet regex is perl compatible
+grep  -P "\d{3}-\d{3}-\d{4}" #tell grep that regex is perl compatible
